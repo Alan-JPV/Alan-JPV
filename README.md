@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alan-JPV
-- 👀 I’m interested in video game development and cybersecurity
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning btech in computer science
 
 <!---
